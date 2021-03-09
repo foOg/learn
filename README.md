@@ -4,8 +4,8 @@ Cet repository est associé à la série de cours en vidéo sur l'apprentissage 
 Le but de ces vidéos est d'aider ceux qui le souhaite à apprendre à développer en utilisant le Javascript. Ces cours ont vocation à être un support d'apprentissage, guidant le néophyte. Ils n'ont pas vocation à fournir un support professionnel pour l'apprentissage, ni à remplacer une formation classique dispensé par un organisme officiel.
 
 ## Sommaire
-Ep01. [Les variables](./variables)
-Ep02. [Les conditions](./conditions)
-Ep03. [Les boucles](./boucles)
-Ep04. [Les fonctions](./fonctions)
-Projet [TicTacToe](./tictactoe)
+- Ep01. [Les variables](./variables)
+- Ep02. [Les conditions](./conditions)
+- Ep03. [Les boucles](./boucles)
+- Ep04. [Les fonctions](./fonctions)
+- Projet [TicTacToe](./tictactoe)
